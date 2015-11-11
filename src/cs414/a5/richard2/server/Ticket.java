@@ -1,9 +1,9 @@
-package cs414.a4.richard2;
+package cs414.a5.richard2.server;
 
 import java.util.Date;
 
 
-class Ticket {
+public class Ticket {
 
   private int id; /** Simple integer-based ticket number */
   private Date entryTime;

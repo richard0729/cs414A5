@@ -1,4 +1,4 @@
-package cs414.a4.richard2;
+package cs414.a5.richard2.server;
 
 class Gate {
 	private GateType type;
